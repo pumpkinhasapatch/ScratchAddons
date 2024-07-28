@@ -21,6 +21,12 @@
       "default": true
     },
     {
+      "name": "Video Sensing",
+      "id": "videoSensing",
+      "type": "boolean",
+      "default": false
+    },
+    {
       "name": "Text to Speech",
       "id": "text2speech",
       "type": "boolean",
@@ -29,6 +35,42 @@
     {
       "name": "Translate",
       "id": "translate",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "Makey Makey",
+      "id": "makeymakey",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "micro:bit",
+      "id": "microbit",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "LEGO EV3",
+      "id": "ev3",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "LEGO BOOST",
+      "id": "boost",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "LEGO WeDo 2.0",
+      "id": "wedo2",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "Go Direct",
+      "id": "gdxfor",
       "type": "boolean",
       "default": false
     }
